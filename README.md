@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 Here's a bit about me:
 
 ##  👤  About Me
-- 🔭 I’m currently working on a password strength checker project.
+- 🔭 I’m currently working on numerous projects.
 - 🌱 I’m currently learning cybersecurity and exploring different areas in it 🔒.
 - 👯 I’m looking to collaborate on cybersecurity and fintech related projects.
 - 💬 Feel free to ask me about anything! I consider myself a jack of all trades 🧰😜. You can send your question to me via [email](#-connect-with-me) and I'll get back to you ASAP.
