@@ -5,16 +5,16 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating and learning new things.
 Here's a bit about me:
 
-## 🚀 About Me
+##  👤  About Me
 - 🔭 I’m currently working on a password strength checker project.
 - 🌱 I’m currently learning cybersecurity and exploring different areas in it 🔒.
 - 👯 I’m looking to collaborate on cybersecurity and fintech related projects.
 - 💬 Feel free to ask me about anything! I consider myself a jack of all trades 🧰😜. You can [send your question to me via email](#-connect-with-me) and I'll get back to you ASAP.
-- ⚡ Fun fact: I can pick stuff up with my feet from the ground 🦶.
-- 🛡️ I have a keen interest in cybersecurity
+- ⚡ Fun fact: I can pick stuff up with my feet from the ground 🦶 and I consider myself quite a humorous person as well 😂
 
-## 🛠️ Skills & Tools
-- **Languages:**
+
+## 🛠️ Skills:
+- ** 🛡️ Technical Skills:**
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,6 +24,14 @@ Here's a bit about me:
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+  - **🌟 Non-Technical Skills:**
+- 🧩 Problem Solver
+- 💻 Digitally Savvy
+- 🗣️ Good Communicator
+- 🤸‍♂️ Flexible
+- 🌱 Adaptability
+- 📋 Project Management
 
 ## 🚀 Frameworks/Libraries:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -36,19 +44,9 @@ Here's a bit about me:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-## 🛡️ Other:
-- Object-Oriented Programming (OOP) ![Shield](https://img.shields.io/badge/-shield-blue?style=flat-square&logo=shield&logoColor=white)
-  
-
-## 🌟 Non-Technical Skills
-- 🧩 Problem Solver
-- 💻 Digitally Savvy
-- 🗣️ Good Communicator
-- 🤸‍♂️ Flexible
-- 🌱 Adaptability
-- 📋 Project Management
-
-
+## 📚 Other:
+- Object-Oriented Programming (OOP) ![OOP](https://img.shields.io/badge/OOP-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2Ljg3IDguODc1QzE3LjM4MiA4Ljg3NSAxNy44NzggOS4wODQxIDE4LjI0NyA5LjQ1M0MxOC42MTUgOS44MjEzIDE4LjgyNSAxMC4zMTggMTguODI1IDEwLjg3NUMxOC44MjUgMTEuNDMzIDE4LjYxNSAxMS45MjkgMTguMjQ3IDEyLjI5OEMxNy44NzggMTIuNjY2IDE3LjM4MiAxMi44NzUgMTYuODcgMTIuODc1QzE2LjM1OCAxMi44NzUgMTUuODYyIDEyLjY2NiAxNS40OTMgMTIuMjlDMTUuMTI1IDExLjkyOSAxNC45MTUgMTEuNDMzIDE0LjkxNSAxMC44NzVDMTQuOTE1IDEwLjMxOCAxNS4xMjUgOS44MjEzIDE1LjQ5MyA5LjQ1M0MxNS44NjIgOS4wODQxIDE2LjM1OCA4Ljg3NSAxNi44NyA4Ljg3NVpNMTcuNSA4Ljc1QzE3LjUgOC4zMDIzIDE3Lj315IDcuOTU0IDIwLjUgNy41QzE5Ljc1IDcuNSAxOS4xMiA4LjEwMiAxOS4xMiA4Ljc1QzE5LjEyIDkuMzk4IDE5Ljc1IDl4OTk1IDIwLjUgOVY4Ljc1WiIgZmlsbD0iIzAwMDAwMCIvPgo8cGF0aCBkPSJNNC4xMjUgOC43NThDMi44NTQxIDguNzU4IDIuNSA5LjMwMjYgMi41IDEwLjU1QzIuNSAxMS43OTcmNCAzLjMzMzcgNC4xMjUgOC43NThWMTAuODc1TDEgMTAuODc1TDEgMTIuMTI1TDAuMDAwMjgwMzMzIDguODc1QzAuMDAwMjgwMzMzIDYuNzA0NyAwLjAwMDI4MDMzMyA0LjUyOTggMC4wMDAyODAzMzMgMi4zNzUgQzAuMDAwMjgwMzMzIDIuMDg2NyAwLjAwMDI4MDMzMyAxLjc5MTMgMC4wMDAyODAzMzMgMS41QzAuMDAwMjgwMzMzIDEuMjA4NyAwLjAwMDI4MDMzMyAxLjAzNDIgMC4wMDAyODAzMzMgMC45NzQ5NkMwLjAwMDI4MDMzMyAwLjYyMzI5IDAuMDAwMjgwMzMzIC4zMjk5MSAwLjAwMDI4MDMzMyAwQzAuMDAwMjgwMzMzIDAgMCAuMDk0NzA5OTk5IDAgMC4yNTAwMDAwMUwwIDAuMjUwMDAwMDFMMCAwLjk3NDk2TDQuMTI1IDguNzU4WiIgZmlsbD0iIzAwMDAwMCIvPgo8L3N2Zz4K)
+- 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cellie0320&show_icons=true&theme=radical)
