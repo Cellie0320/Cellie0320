@@ -9,7 +9,7 @@ Here's a bit about me:
 - 🔭 I’m currently working on numerous projects.
 - 🌱 I’m currently learning cybersecurity and exploring different areas in it 🔒.
 - 👯 I’m looking to collaborate on cybersecurity and fintech related projects.
-- 💬 Feel free to ask me about anything! I consider myself a jack of all trades 🧰😜. You can send your question to me via [email](#-connect-with-me) and I'll get back to you ASAP.
+- 💬 Feel free to ask me any questions you might have about me or my work. You can send your question or questions to me via [email](#-connect-with-me) and I'll get back to you ASAP.
 - ⚡ Fun fact: I can pick stuff up with my feet from the ground 🦶 and I consider myself quite a humorous person as well 😂
 
 
