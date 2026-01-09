@@ -7,7 +7,7 @@ Here's a bit about me:
 
 ##  👤  About Me
 - 🔭 Currently working on:
-Building AI-assisted solutions at Amax Digital and developing full-stack projects using PHP/MySQL to strengthen my junior developer foundation.
+Building AI-assisted solutions at Amax Digital and developing full-stack projects using PHP, MySQL, JavaScript, and jQuery to strengthen my junior developer foundation.
 
 - 🌱 Currently learning:
 Cloud-native deployments, advanced system design patterns, and working toward certifications (Google AI Essentials, Azure AI-102, PMI CAPM) as I progress from junior to intermediate and senior full-stack roles.
@@ -19,7 +19,7 @@ Full-stack projects that integrate AI innovation, intelligent automation tools, 
 Full-stack development, AI integration, project management practices, or anything related to my portfolio and career journey. I’m always open to meaningful discussions and collaboration.
 
 - ⚡ Fun fact:
-I’m a builder–learner hybrid — I learn fastest by building real systems, breaking them, fixing them, and making them better (with humor included 😄).
+I'm a builder–learner hybrid — I learn fastest by building real systems, breaking them (intentionally!), fixing them, and iterating until they're production-ready 🚀
 
 
 ## 🛠️ Skills:
