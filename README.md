@@ -6,11 +6,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 Here's a bit about me:
 
 ##  👤  About Me
-- 🔭 I’m currently working on numerous projects.
-- 🌱 I’m currently learning cybersecurity and exploring different areas in it 🔒.
-- 👯 I’m looking to collaborate on cybersecurity and fintech related projects.
-- 💬 Feel free to ask me any questions you might have about me or my work. You can send your question or questions to me via [email](#-connect-with-me) and I'll get back to you ASAP.
-- ⚡ Fun fact: I can pick stuff up with my feet from the ground 🦶 and I consider myself quite a humorous person as well 😂
+- 🔭 Currently working on:
+Building AI-assisted solutions at Amax Digital and developing full-stack projects using PHP/MySQL to strengthen my junior developer foundation.
+
+- 🌱 Currently learning:
+Cloud-native deployments, advanced system design patterns, and working toward certifications (Google AI Essentials, Azure AI-102, PMI CAPM) as I progress from junior to intermediate and senior full-stack roles.
+
+- 👯 Looking to collaborate on:
+Full-stack projects that integrate AI innovation, intelligent automation tools, and project management workflows—especially within fintech and enterprise solutions.
+
+- 💬 Ask me about:
+Full-stack development, AI integration, project management practices, or anything related to my portfolio and career journey. I’m always open to meaningful discussions and collaboration.
+
+- ⚡ Fun fact:
+I’m a builder–learner hybrid — I learn fastest by building real systems, breaking them, fixing them, and making them better (with humor included 😄).
 
 
 ## 🛠️ Skills:
