@@ -5,21 +5,22 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating and learning new things.
 Here's a bit about me:
 
-##  👤  About Me
-- 🔭 Currently working on:
-Building AI-assisted solutions at Amax Digital and developing full-stack projects using PHP, MySQL, JavaScript, and jQuery to strengthen my junior developer foundation.
+## 👤 About Me  
 
-- 🌱 Currently learning:
-Cloud-native deployments, advanced system design patterns, and working toward certifications (Google AI Essentials, Azure AI-102, PMI CAPM) as I progress from junior to intermediate and senior full-stack roles.
+- 🔭 **Currently working on:**  
+Strengthening my technical foundation in IT Support at Amax while building AI-assisted and full-stack projects using PHP, MySQL, JavaScript, and jQuery to sharpen my development skills and real-world problem-solving ability.
 
-- 👯 Looking to collaborate on:
-Full-stack projects that integrate AI innovation, intelligent automation tools, and project management workflows—especially within fintech and enterprise solutions.
+- 🌱 **Currently learning:**  
+Networking fundamentals, server environments, cloud concepts, and security best practices as I transition toward a long-term goal in cybersecurity—while continuing to expand my full-stack and AI knowledge.
 
-- 💬 Ask me about:
-Full-stack development, AI integration, project management practices, or anything related to my portfolio and career journey. I’m always open to meaningful discussions and collaboration.
+- 👯 **Looking to collaborate on:**  
+Projects that combine infrastructure, automation, and security-focused thinking—especially tools that solve real operational or enterprise challenges.
 
-- ⚡ Fun fact:
-I'm a builder–learner hybrid — I learn fastest by building real systems, breaking them (intentionally!), fixing them, and iterating until they're production-ready 🚀
+- 💬 **Ask me about:**  
+IT troubleshooting, system environments, full-stack fundamentals, AI integration, or how I’m bridging hands-on support experience with cybersecurity growth.
+
+- ⚡ **Fun fact:**  
+I’m a builder–learner hybrid — I understand systems best by building them, breaking them (on purpose), troubleshooting them, and rebuilding them stronger 🚀
 
 
 ## 🛠️ Skills:
