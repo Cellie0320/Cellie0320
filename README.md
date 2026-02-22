@@ -2,8 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Cellie0320)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating and learning new things.
-Here's a bit about me:
+I'm a passionate IT professional and developer who loves building real systems and continuously learning how technology works — from code to infrastructure.
 
 ## 👤 About Me  
 
